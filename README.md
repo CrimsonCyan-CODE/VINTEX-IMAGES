@@ -1,2 +1,4 @@
-# BIMD-FILECREATOR
-A file creator for BIMD (Back in My Day) files that turn images into an old-tv, black and white static .bimd file. You can increase the static intensity and the converter supports up to 24 file formats. To see the bimd, either convert it back to a working image file or use the viewer thats part of the program.
+This is the BIMD file creator, where you can create Back In My Day (BIMD) files from converting up to 24 image formats.
+PNG • JPG • WEBP • GIF • ICO • TIF • SVG • BMP • PPM • PGM • PBM • PNM • AVIF • HEIC • JP2 • JXL • CUR • TGA • DDS • PCX • XBM • XPM • ICNS • QOI
+To view the file, you can either convert it back to an image file (back when there wasnt a viewer, i converted it back to .jpg) or use the new viewer inside the EXE to look there. 
+I hope you enjoy this tiny project i made in about a day.
